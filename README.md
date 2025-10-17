@@ -5,7 +5,7 @@ Picasso-Classification : a model to classification the abstract image from hand-
 * Step 1: install the requirements: (Terminal)
 ```
 > sudo apt install git
-> git https://www.github.com/starxsky/Picasso-Classification.git
+> git clone https://www.github.com/starxsky/Picasso-Classification.git
 > cd Picasso-Classification 
 > pip3 install -r requirements.txt  
 ```
